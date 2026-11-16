@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/EshikaDas/algo-vault/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/EshikaDas/algo-vault/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/EshikaDas/algo-vault/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
